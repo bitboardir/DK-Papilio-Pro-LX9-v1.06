@@ -1,5 +1,6 @@
 # DK-Papilio-Pro-LX9-v1.06
 ![Board Image](/papilio_pro.PNG)
+
 Overview
 
 This is a development board based on the Xilinx Spartan-6 XC6SLX9 FPGA chip. It is an excellent choice for implementing custom digital systems, designing soft-core processors, and teaching digital architecture.
