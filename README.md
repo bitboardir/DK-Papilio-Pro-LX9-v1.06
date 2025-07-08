@@ -31,21 +31,27 @@ HOW to Program Board in Arduino Based Enviroment DesignLab :
 
 
 Download design lab and install:
+
 ![Download design lab and install](/pic/1_download_design_lab_and_install.PNG)
 
 loade bit file zpuino-2.0-PapilioPro-S6LX9-RetroCade-1.3.bit
+
 ![loade bit file](/pic/2_loader.PNG)
 
 select_example:
+
 ![select_example](/pic/3_select_example.png)
 
 select_board:
+
 ![select_board](/pic/4-select_board.png)
 
 select_port:
+
 ![select_port](/pic/5-select_port.png)
 
 program_example_and_open_terminal:
+
 ![program_example_and_open_terminal](/pic/6_program_example_and_open_terminal.png)
 
 
