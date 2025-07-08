@@ -34,8 +34,8 @@ HOW to Program Board in Arduino Based Enviroment DesignLab :
 ![Download design lab and install](/pic/1_download_design_lab_and_install.PNG)
 ![Board Image](/pic/2_loader.PNG)
 ![Board Image](/pic/3_select_example.png)
-![Board Image](/pic/4-select board.png)
-![Board Image](/pic/5-select port.png)
-![Board Image](/pic/6_ program example and open terminal.JPG)
+![Board Image](/pic/4-select_board.png)
+![Board Image](/pic/5-select_port.png)
+![Board Image](/pic/6_ program_example_and_open_terminal.JPG)
 
 
