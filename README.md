@@ -25,3 +25,17 @@ Technical Specifications
     I/O Ports: Expandable GPIO headers for shields or external modules
 
     Form Factor & Design: Compatible with breadboards and custom PCBs
+
+
+HOW to Program Board in Arduino Based Enviroment DesignLab :
+
+
+
+![Download design lab and install](/pic/1_download design lab and install.PNG)
+![Board Image](/pic/2_loader.PNG)
+![Board Image](/pic/3_select_example.png)
+![Board Image](/pic/4-select board.png)
+![Board Image](/pic/5-select port.png)
+![Board Image](/pic/6_ program example and open terminal.JPG)
+
+
