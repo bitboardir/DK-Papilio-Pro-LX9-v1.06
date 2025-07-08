@@ -30,7 +30,7 @@ Technical Specifications
 HOW to Program Board in Arduino Based Enviroment DesignLab :
 
 
-Download design lab and install:
+Download DesignLab and install:
 
 ![Download design lab and install](/pic/1_download_design_lab_and_install.PNG)
 
